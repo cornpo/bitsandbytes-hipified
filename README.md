@@ -1,3 +1,5 @@
+You don't want my fork. Original here https://github.com/TimDettmers/bitsandbytes
+
 # bitsandbytes
 
 The bitsandbytes is a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions.
